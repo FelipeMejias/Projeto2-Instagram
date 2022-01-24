@@ -1,0 +1,15 @@
+.postagem div .curtida-imagem img{height:20px;width:20px;border-radius:10px;}
+
+.postagem div div img{height:32px;width:32px;border-radius:16px;margin-right: 5px;}
+
+.postagem div img{Width:612px;Height:612px}
+
+.feed .postagem .margenzinha .curtida-imagem p {font-size:14px;}
+.feed .postagem .margenzinha .curtida-imagem p span{font-weight: 700;}
+.feed .postagem .margenzinha .quem-postou p {font-size:14px; font-weight: 500;}
+
+
+.borda-story{height: 66px;width:66px;border-radius: 33px;}
+.story div {align-items:center;}
+
+.stories p{font-size:12px;font-weight: 400;}
