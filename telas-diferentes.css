@@ -12,7 +12,7 @@
 
     .stories{height: 90px;width:100vw;background-color: #FAFAFA;border:none;}
 
-    .stories{width:calc(100vw - 10px)}
+    .stories{width:100vw}
     
     .feed{width: 100vw;margin-bottom:75px;}
 
